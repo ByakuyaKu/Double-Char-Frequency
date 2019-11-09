@@ -1,0 +1,11 @@
+D:\GERASKIN\DoubleFreq\DoubleFreq\bin\Debug\netcoreapp2.1\DoubleFreq.deps.json
+D:\GERASKIN\DoubleFreq\DoubleFreq\bin\Debug\netcoreapp2.1\DoubleFreq.runtimeconfig.json
+D:\GERASKIN\DoubleFreq\DoubleFreq\bin\Debug\netcoreapp2.1\DoubleFreq.runtimeconfig.dev.json
+D:\GERASKIN\DoubleFreq\DoubleFreq\bin\Debug\netcoreapp2.1\DoubleFreq.dll
+D:\GERASKIN\DoubleFreq\DoubleFreq\bin\Debug\netcoreapp2.1\DoubleFreq.pdb
+D:\GERASKIN\DoubleFreq\DoubleFreq\obj\Debug\netcoreapp2.1\DoubleFreq.csprojAssemblyReference.cache
+D:\GERASKIN\DoubleFreq\DoubleFreq\obj\Debug\netcoreapp2.1\DoubleFreq.csproj.CoreCompileInputs.cache
+D:\GERASKIN\DoubleFreq\DoubleFreq\obj\Debug\netcoreapp2.1\DoubleFreq.AssemblyInfoInputs.cache
+D:\GERASKIN\DoubleFreq\DoubleFreq\obj\Debug\netcoreapp2.1\DoubleFreq.AssemblyInfo.cs
+D:\GERASKIN\DoubleFreq\DoubleFreq\obj\Debug\netcoreapp2.1\DoubleFreq.dll
+D:\GERASKIN\DoubleFreq\DoubleFreq\obj\Debug\netcoreapp2.1\DoubleFreq.pdb
